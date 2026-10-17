@@ -9,11 +9,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Based_in-Sri_Lanka_🇱🇰-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based_in-Sri_Lanka-1f6feb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/QA_Experience-1.6_Years-2EAD33?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Developer_Experience-2_Years-8957e5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ISTQB-Foundation_Level-orange?style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/RushanthanGunalan?label=Followers&logo=github&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
@@ -38,7 +37,7 @@ name: Rushanthan Gunalan
 role: QA Engineer @ Twist Digital
 qa_experience: 1.6 years (dedicated QA)
 developer_experience: ~2 years
-location: Sri Lanka 🇱🇰
+location: Sri Lanka
 focus:
   - Manual testing: test design, exploratory, UAT, defect management
   - Web & mobile test automation (Playwright, Cypress, Robot Framework + Appium)
