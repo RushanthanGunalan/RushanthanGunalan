@@ -3,9 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rushanthan%20Gunalan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Manual%20and%20Automation%20Testing%20%7C%20AI-Assisted%20QA&descAlignY=58&descSize=18" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;Manual+%26+Automation+Testing+Specialist+%F0%9F%A7%AA;Automating+Web+%26+Mobile+with+Playwright+%26+Cypress+%F0%9F%8E%AD;CI%2FCD+%2B+AI-Assisted+Testing+%F0%9F%A4%96;Shipping+quality+at+speed+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;Manual+%26+Automation+Testing+Specialist+%F0%9F%A7%AA;Automating+Web+%26+Mobile+with+Playwright+%26+Cypress+%F0%9F%8E%AD;CI%2FCD+%2B+AI-Assisted+Testing+%F0%9F%A4%96;Shipping+quality+at+speed+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -18,7 +16,6 @@
 
 <a href="https://www.linkedin.com/in/rushanthang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:m.g.rushanthan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/RushanthanGunalan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
