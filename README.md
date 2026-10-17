@@ -1,18 +1,19 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rushanthan%20Gunalan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20AI-Assisted%20Testing&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rushanthan%20Gunalan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing%20%7C%20AI-Assisted%20QA&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;Automating+Web+%26+Mobile+with+Playwright+%26+Cypress+%F0%9F%8E%AD;CI%2FCD+%2B+AI-Assisted+Testing+%F0%9F%A4%96;Shipping+quality+at+speed+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;Manual+%26+Automation+Testing+Specialist+%F0%9F%A7%AA;Automating+Web+%26+Mobile+with+Playwright+%26+Cypress+%F0%9F%8E%AD;CI%2FCD+%2B+AI-Assisted+Testing+%F0%9F%A4%96;Shipping+quality+at+speed+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
 
 <img src="https://img.shields.io/badge/Based_in-Sri_Lanka_🇱🇰-1f6feb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Experience-3%2B_Years-2EAD33?style=for-the-badge" />
+<img src="https://img.shields.io/badge/QA_Experience-1.6_Years-2EAD33?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Developer_Experience-2_Years-8957e5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ISTQB-Foundation_Level-orange?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=RushanthanGunalan&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/RushanthanGunalan?label=Followers&logo=github&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
@@ -26,15 +27,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **QA Engineer with 3+ years of technical experience**: about 2 years as a Software Engineer (development + testing), followed by over a year fully focused on **QA and test automation**. That dev background means I read code, debug at the source, and talk to developers in their language.
+I'm a **QA Engineer with 1.6 years of dedicated QA experience**, built on top of **about 2 years as a Software Developer**. That development background means I read code, debug at the source, and talk to developers in their language.
 
-I've tested **AI-powered CRM, blockchain, healthcare, education, and AI image-generation** products, and I enjoy building automation that gives teams fast, trustworthy feedback on every build.
+My QA work covers **both manual testing and test automation**. Manual testing is a real specialty of mine: test planning, exploratory testing, UAT, defect tracking, and RBAC/access-control validation. I then automate the high-value flows with Playwright, Cypress, and Robot Framework so teams get fast, trustworthy feedback on every build.
+
+I've tested **AI-powered CRM, blockchain, healthcare, education, and AI image-generation** products.
 
 ```yaml
 name: Rushanthan Gunalan
 role: QA Engineer @ Twist Digital
+qa_experience: 1.6 years (dedicated QA)
+developer_experience: ~2 years
 location: Sri Lanka 🇱🇰
 focus:
+  - Manual testing: test design, exploratory, UAT, defect management
   - Web & mobile test automation (Playwright, Cypress, Robot Framework + Appium)
   - CI/CD-integrated testing with automated webhook reporting
   - AI agents & AI-assisted testing
@@ -73,8 +79,8 @@ ask_me_about: [Test automation, RBAC testing, JMeter load tests, n8n workflows]
 
 | Area                     | What I Do                                                         |
 | ------------------------ | ----------------------------------------------------------------- |
+| 🧪 **Manual Testing & UAT** | Test plans, test cases, exploratory testing, regression, defect tracking, stakeholder UAT |
 | 🌐 **Web Automation**    | End-to-end and regression suites with Playwright & Cypress        |
-| ✅ **Manual & UAT**      | Test plans, exploratory testing, defect tracking, stakeholder UAT |
 | 🤖 **AI-Assisted QA**    | AI agents to speed up test creation and execution                 |
 | 📱 **Mobile Automation** | Android/iOS flows with Robot Framework + Appium                   |
 | 🔌 **API Testing**       | Functional and integration checks with Postman                    |
@@ -110,6 +116,8 @@ Right after a deployment, the team's chat channel receives the test results alon
 ---
 
 ## 💼 Experience
+
+**🧪 QA experience: 1.6 years** (Twist Digital, manual + automation) · **💻 Developer experience: ~2 years** (Shiftx Global, Binary Technologies)
 
 | Role                                       | Company                      | Period              |
 | ------------------------------------------ | ---------------------------- | ------------------- |
@@ -235,7 +243,7 @@ _Patients, appointments, check-in & medicine inventory_
 
 ## 🤝 Let's Connect
 
-I'm open to **QA automation roles and collaborations**. Happy to chat about test automation, CI/CD testing, and using AI to make QA smarter.
+I'm open to **QA roles (manual and automation) and collaborations**. Happy to chat about test strategy, manual and automated testing, CI/CD testing, and using AI to make QA smarter.
 
 <div align="center">
 
