@@ -36,7 +36,7 @@ role: QA Engineer @ Twist Digital
 location: Sri Lanka 🇱🇰
 focus:
   - Web & mobile test automation (Playwright, Cypress, Robot Framework + Appium)
-  - CI/CD-integrated testing on every build
+  - CI/CD-integrated testing with automated webhook reporting
   - AI agents & AI-assisted testing
   - API, performance, security & RBAC validation
 currently_learning: [AI-driven test generation, advanced CI pipelines]
@@ -74,8 +74,8 @@ ask_me_about: [Test automation, RBAC testing, JMeter load tests, n8n workflows]
 | Area                     | What I Do                                                         |
 | ------------------------ | ----------------------------------------------------------------- |
 | 🌐 **Web Automation**    | End-to-end and regression suites with Playwright & Cypress        |
-| 🤖 **AI-Assisted QA**    | AI agents to speed up test creation and execution                 |
 | ✅ **Manual & UAT**      | Test plans, exploratory testing, defect tracking, stakeholder UAT |
+| 🤖 **AI-Assisted QA**    | AI agents to speed up test creation and execution                 |
 | 📱 **Mobile Automation** | Android/iOS flows with Robot Framework + Appium                   |
 | 🔌 **API Testing**       | Functional and integration checks with Postman                    |
 | ⚡ **Performance**       | Load and concurrency testing with JMeter                          |
@@ -85,18 +85,27 @@ ask_me_about: [Test automation, RBAC testing, JMeter load tests, n8n workflows]
 
 ## 🔄 How I Automate Quality
 
+**1️⃣ Automated test reporting after every deployment**
+
 ```mermaid
 flowchart LR
-    A[👨‍💻 New Build] --> B[⚙️ CI Pipeline]
-    B --> C[🎭 Playwright / Cypress Suite]
-    C -->|Pass| D[✅ Release Confidence]
-    C -->|Fail| E[🤖 n8n Workflow]
-    E --> F[🐞 Auto Bug Report to Team]
-    F --> G[🔧 Fix & Re-run]
-    G --> B
+    A["👨‍💻 Developer deploys the app"] --> B["⚙️ CI pipeline triggers"]
+    B --> C["🎭 Playwright / Cypress suite runs"]
+    C --> D["📦 Test report generated as zip"]
+    D --> E["🔗 Webhook"]
+    E --> F["💬 Team chat channel gets results + report zip"]
 ```
 
-Every build auto-triggers tests, and failed runs are reported to the team automatically, so defects get communicated in minutes instead of hours.
+**2️⃣ Instant bug notifications with n8n**
+
+```mermaid
+flowchart LR
+    A["🐞 QA logs a bug in ClickUp / Jira"] --> B["🤖 n8n workflow"]
+    B --> C["💬 Team chat notification"]
+    C --> D["🔗 Includes the task link"]
+```
+
+Right after a deployment, the team's chat channel receives the test results along with the full report zip through a webhook, with no manual step. When QA raises a bug in the project management tool, an n8n workflow notifies the team in chat with a direct link to the task, so nothing gets missed.
 
 ---
 
@@ -112,11 +121,11 @@ Every build auto-triggers tests, and failed runs are reported to the team automa
 **Recent highlights at Twist Digital**
 
 - 🎭 Built and maintained Cypress/Playwright automation, ensuring data integrity in sandbox environments
-- ⚙️ Integrated Playwright into CI so tests auto-trigger on every build for faster feedback
+- ⚙️ Integrated Playwright into CI so tests auto-trigger on every build, with results and the report zip sent to the team chat via webhook
 - 🧪 Implemented end-to-end CI testing that improved release confidence and caught regressions early
 - 📱 Automated Android/iOS testing with Robot Framework and Appium
 - 🤖 Applied AI agents and AI-assisted testing to speed up test creation and execution
-- 🔔 Used n8n to auto-report bugs from failed test runs
+- 🔔 Used n8n to notify the team in chat about newly logged bugs, with a direct link to the task in ClickUp/Jira
 - 📈 Led API, performance, and UAT testing to improve stability and speed up bug resolution
 
 ---
@@ -138,7 +147,7 @@ _Conversational AI, call intelligence & scheduling_
 - Validated RBAC across user roles
 - Load-tested lead-capacity limits with JMeter
 
-`Playwright` `Cypress` `JMeter` `Postman` `RBAC`
+`Cypress` `Playwright` `JMeter` `Postman` `RBAC`
 
 </td>
 <td width="50%" valign="top">
