@@ -1,16 +1,16 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rushanthan%20Gunalan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Manual%20and%20Automation%20Testing%20%7C%20AI-Assisted%20QA&descAlignY=58&descSize=18" width="100%" />
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rushanthan%20Gunalan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Manual%20and%20Automation%20Testing%20%7C%20AI-Assisted%20QA&descAlignY=58&descSize=18" width="100%" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;Manual+%26+Automation+Testing+Specialist+%F0%9F%A7%AA;Automating+Web+%26+Mobile+with+Playwright+%26+Cypress+%F0%9F%8E%AD;CI%2FCD+%2B+AI-Assisted+Testing+%F0%9F%A4%96;Shipping+quality+at+speed+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9B;Manual+%26+Automation+Testing+Specialist+%F0%9F%A7%AA;Automating+Web+%26+Mobile+with+Playwright+%26+Cypress+%F0%9F%8E%AD;CI%2FCD+%2B+AI-Assisted+Testing+%F0%9F%A4%96;Shipping+quality+at+speed+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Based_in-Sri_Lanka-1f6feb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/QA_Experience-1.6_Years-2EAD33?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Developer_Experience-2_Years-8957e5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ISTQB-Foundation_Level-orange?style=for-the-badge" />
+<a href="#"><img src="https://img.shields.io/badge/Based_in-Sri_Lanka-1f6feb?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/QA_Experience-1.6_Years-2EAD33?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Developer_Experience-2_Years-8957e5?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/ISTQB-Foundation_Level-orange?style=for-the-badge" /></a>
 
 <br><br>
 
@@ -47,35 +47,35 @@ I've tested **AI-powered CRM, blockchain, healthcare, education, and AI image-ge
 
 **🧪 Automation & Testing**
 
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
-<img src="https://img.shields.io/badge/Appium-EE376B?style=for-the-badge&logo=appium&logoColor=white" />
-<img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge" />
+<a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Appium-EE376B?style=for-the-badge&logo=appium&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge" /></a>
 
 **🔌 API & Performance**
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" /></a>
 
 **💻 Languages & Databases**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 
 **⚙️ CI/CD, Workflow & Collaboration**
 
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 
 </div>
 
@@ -236,10 +236,10 @@ _Patients, appointments, check-in & medicine inventory_
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RushanthanGunalan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushanthanGunalan&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="#"><img height="170" src="https://github-readme-stats.vercel.app/api?username=RushanthanGunalan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></a>
+<a href="#"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushanthanGunalan&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
-<img src="https://streak-stats.demolab.com?user=RushanthanGunalan&theme=tokyonight&hide_border=true" />
+<a href="#"><img src="https://streak-stats.demolab.com?user=RushanthanGunalan&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
@@ -258,6 +258,6 @@ I'm open to **QA roles (manual and automation) and collaborations**. Happy to ch
 
 _"Quality is not an act, it is a habit."_
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" /></a>
 
 </div>
