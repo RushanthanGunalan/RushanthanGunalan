@@ -32,21 +32,15 @@ My QA work covers **both manual testing and test automation**. Manual testing is
 
 I've tested **AI-powered CRM, blockchain, healthcare, education, and AI image-generation** products.
 
-```yaml
-name: Rushanthan Gunalan
-role: QA Engineer @ Twist Digital
-qa_experience: 1.6 years (dedicated QA)
-developer_experience: ~2 years
-location: Sri Lanka
-focus:
-  - Manual testing: test design, exploratory, UAT, defect management
-  - Web & mobile test automation (Playwright, Cypress, Robot Framework + Appium)
-  - CI/CD-integrated testing with automated webhook reporting
-  - AI agents & AI-assisted testing
-  - API, performance, security & RBAC validation
-currently_learning: [AI-driven test generation, advanced CI pipelines]
-ask_me_about: [Test automation, RBAC testing, JMeter load tests, n8n workflows]
-```
+| 📌 At a Glance | Details |
+| :-- | :-- |
+| 🧑‍💼 **Role** | QA Engineer @ Twist Digital |
+| 🧪 **QA Experience** | 1.6 years (dedicated QA, manual + automation) |
+| 💻 **Developer Experience** | ~2 years |
+| 📍 **Location** | Sri Lanka |
+| 🎯 **Focus** | Manual testing (test design, exploratory, UAT, defect management)<br>Web & mobile automation (Playwright, Cypress, Robot Framework + Appium)<br>CI/CD-integrated testing with automated webhook reporting<br>AI agents & AI-assisted testing<br>API, performance, security & RBAC validation |
+| 📚 **Currently Learning** | AI-driven test generation, advanced CI pipelines |
+| 💬 **Ask Me About** | Test automation, RBAC testing, JMeter load tests, n8n workflows |
 
 ---
 
@@ -54,22 +48,36 @@ ask_me_about: [Test automation, RBAC testing, JMeter load tests, n8n workflows]
 
 <div align="center">
 
-**Automation & Testing**
+**🧪 Automation & Testing**
 
-<img src="https://skillicons.dev/icons?i=cypress,playwright,selenium,postman,jest&perline=10" /><br>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
 <img src="https://img.shields.io/badge/Appium-EE376B?style=for-the-badge&logo=appium&logoColor=white" />
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge" />
 
-**Languages & Databases**
+**🔌 API & Performance**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,mysql,mongodb&perline=10" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 
-**CI/CD, Workflow & Collaboration**
+**💻 Languages & Databases**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jira&perline=10" /><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+**⚙️ CI/CD, Workflow & Collaboration**
+
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white" />
 
 </div>
